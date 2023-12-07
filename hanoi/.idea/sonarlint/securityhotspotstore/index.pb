@@ -18,3 +18,7 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+K
+src/main/java/app/Main.java,e/b/eb1600cf0a732cd9d1abe029d6033ba40522a8bf
+N
+src/main/java/model/Towel.java,6/0/606ebd3c5016a9eac6b5d51225ab112060be989d
